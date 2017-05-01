@@ -1,0 +1,17 @@
+{
+  "name": "multivision",
+  "version": "1.0.0",
+  "description": "Pluralsight MEAN tutorial project",
+  "main": "index.js",
+  "dependencies": {
+    "express": "^4.15.2",
+    "jade": "^1.11.0",
+    "mongodb": "^2.2.26"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Dan Patino",
+  "license": "ISC"
+}
